@@ -4,6 +4,7 @@
 
 .DS_Store
 
-*.md
+README-help.md
+style-guide.md
 
 /figma
